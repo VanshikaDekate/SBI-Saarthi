@@ -144,13 +144,32 @@ SentinelX2/
 
 ## Screenshots
 
-Add screenshots from the demo recording here:
+### Login Page
+![Login Page](screenshots/login-page.png)
 
-- Landing page
-- Dashboard
-- AI Recommendation
-- Decision Layer Visualization
-- Executive Dashboard
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Recommendation
+![AI Recommendation](screenshots/ai-recommendation.png)
+
+### Financial Health
+![Financial Health](screenshots/financial-health.png)
+
+### Digital Twin
+![Digital Twin](screenshots/digital-twin.png)
+
+### Financial Journey
+![Financial Journey](screenshots/journey.png)
+
+### Banking Events
+![Banking Events](screenshots/events.png)
+
+### Decision Layer Visualization
+![Decision Layer](screenshots/decision-layer.png)
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/executive-dashboard.png)
 
 ## Future Scope
 
